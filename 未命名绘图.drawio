@@ -152,8 +152,8 @@
             <mxPoint x="1783.5" y="414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mrG-GgRrGo7XpKcj4Rmo-33" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_service;" vertex="1" parent="1">
-          <mxGeometry x="2050" y="297.5" width="63" height="60" as="geometry" />
+        <mxCell id="mrG-GgRrGo7XpKcj4Rmo-33" value="&lt;div&gt;gw.yundzh.com（139.196.248.90&lt;/div&gt;&lt;div&gt;139.196.60.136）&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_service;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="320" width="63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mrG-GgRrGo7XpKcj4Rmo-34" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="mrG-GgRrGo7XpKcj4Rmo-15" target="mrG-GgRrGo7XpKcj4Rmo-33">
           <mxGeometry relative="1" as="geometry">
@@ -194,7 +194,7 @@
             <mxPoint x="854" y="816" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mrG-GgRrGo7XpKcj4Rmo-44" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=#d79b00;align=center;outlineConnect=0;shape=mxgraph.citrix.database;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="mrG-GgRrGo7XpKcj4Rmo-44" value="OB数据库&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=#d79b00;align=center;outlineConnect=0;shape=mxgraph.citrix.database;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="2052.5" y="627.5" width="60.5" height="71.18" as="geometry" />
         </mxCell>
         <mxCell id="mrG-GgRrGo7XpKcj4Rmo-45" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="mrG-GgRrGo7XpKcj4Rmo-44" target="mrG-GgRrGo7XpKcj4Rmo-14">
@@ -233,7 +233,7 @@
             <mxPoint x="854" y="816" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mrG-GgRrGo7XpKcj4Rmo-53" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Building_Cluster.svg;" vertex="1" parent="1">
+        <mxCell id="mrG-GgRrGo7XpKcj4Rmo-53" value="&lt;div&gt;10.172.24.46&lt;/div&gt;&lt;div&gt;10.172.24.104&lt;/div&gt;&lt;div&gt;10.172.24.128&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Building_Cluster.svg;" vertex="1" parent="1">
           <mxGeometry x="2022.15" y="997.5" width="121.2" height="111" as="geometry" />
         </mxCell>
         <mxCell id="mrG-GgRrGo7XpKcj4Rmo-54" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="mrG-GgRrGo7XpKcj4Rmo-53" target="mrG-GgRrGo7XpKcj4Rmo-39">
@@ -244,7 +244,7 @@
         </mxCell>
         <mxCell id="mrG-GgRrGo7XpKcj4Rmo-55" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2064" y="1071" as="sourcePoint" />
+            <mxPoint x="2010" y="1080" as="sourcePoint" />
             <mxPoint x="1155" y="1195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -254,10 +254,10 @@
             <mxPoint x="1165" y="1205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mrG-GgRrGo7XpKcj4Rmo-57" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="mrG-GgRrGo7XpKcj4Rmo-53" target="mrG-GgRrGo7XpKcj4Rmo-44">
+        <mxCell id="mrG-GgRrGo7XpKcj4Rmo-57" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="mrG-GgRrGo7XpKcj4Rmo-53">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2064" y="1061" as="sourcePoint" />
-            <mxPoint x="1145" y="1026" as="targetPoint" />
+            <mxPoint x="2083" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
